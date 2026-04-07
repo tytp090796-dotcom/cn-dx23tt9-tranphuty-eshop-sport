@@ -1,12 +1,12 @@
-# 📅 Báo cáo tuần 1
+# Báo cáo tuần 1
 
-## ✅ Công việc đã làm
+## Công việc đã làm
 - Tạo GitHub repository
 - Viết README.md
 - Nghiên cứu đề tài
 
-## ❌ Khó khăn
+##  Khó khăn
 - Chưa quen Git
 
-## 🔜 Kế hoạch tuần sau
+##  Kế hoạch tuần sau
 - Phân tích yêu cầu hệ thống
