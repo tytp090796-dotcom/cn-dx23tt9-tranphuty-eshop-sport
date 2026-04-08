@@ -22,6 +22,7 @@ TIẾN ĐỘ THỰC HIỆN
 | Tuần | Nội dung |
 |------|--------|
 | 1 | Tạo repo + chọn đề tài |
+| 2 | khảo sát + cài đặt hệ thống |
 ```bash
 git clone <link-repo>
 cd project
