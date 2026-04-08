@@ -4,11 +4,12 @@ Dự án xây dựng một website giúp quản lý và bán các sản phẩm t
 - Xây dựng hệ thống bán hàng online
 - Quản lý sản phẩm, đơn hàng
 - Giao diện thân thiện với người dùng
-
-## ⚙️ Công nghệ sử dụng
-- Frontend: 
-- Backend: 
-- Database: MySQL
+- 
+Tìm hiểu WordPress
+Cài XAMPP
+Phân tích yêu cầu hệ thống:
+User / Admin
+Lên ý tưởng giao diện
 
 ## 🚀 Chức năng chính
 - Đăng ký / đăng nhập
